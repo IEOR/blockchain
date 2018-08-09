@@ -114,6 +114,9 @@ Reach out to Luke and Alex in an email and we will let you know.
 **Will lectures be recorded?**
 Nope.
 
+**Short URL?**
+Yes, you can use: [http://bit.ly/blockchain185](http://bit.ly/blockchain185)
+
 
 ## Additional Notes
 For students who need computing resources for the class project, we recommend you to look into AWS educate program for students. You’ll get 100 dollar’s worth of sign up credit. Here’s the [link](https://aws.amazon.com/education/awseducate/apply/).
