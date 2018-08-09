@@ -1,6 +1,8 @@
 theme: jekyll-theme-slate
 title: "IEOR185-002: Blockchain Challenge Lab"
 description: Fall 2018
+
 github:
   show_downloads: false
   is_project_page: false
+  html_show_sourcelink: false
