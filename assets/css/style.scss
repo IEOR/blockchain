@@ -6,10 +6,13 @@ body {
   font-family: 'Roboto', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-size: 16px;
 }
-
-// HEADER
-
 .page-header {
   width: 100%;
-  background-color: #003262;
- } 
+  background: linear-gradient(-90deg, #FDB515, #003262);
+ }
+h2 {
+  color: #003262 !important;
+}
+h1 h3 h4 h5 {
+  color: #003262 !important;
+}
