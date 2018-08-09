@@ -3,8 +3,8 @@
 <table style="table-layout: fixed; font-size: 88%;">
   <thead>
     <tr>
-      <th style="width: 50%;"><img src="assets/imgs/luke.jpeg" alt="Luke Kowalski"></th>
-      <th style="width: 30%;"><img src="assets/imgs/alex.jpg" alt="Alexander Fred-Ojala"></th>
+      <th style="width: 25%;"><img src="assets/imgs/luke.jpeg" alt="Luke Kowalski"></th>
+      <th style="width: 25%;"><img src="assets/imgs/alex.jpg" alt="Alexander Fred-Ojala"></th>
     </tr>
   </thead>
   <tbody>
@@ -38,7 +38,7 @@
 
 ## Piazza
 
-If the class wants to use a Piazza we'll set it up.
+If the class wants to use a Piazza, we'll set it up.
 
 
 ## Course description
@@ -65,17 +65,14 @@ Students will learn proven entrepreneurial methods and apply user-centered desig
       <td>Introduction</td>
       <td>
         <ul>
-        <li><a href="https://is.muni.cz/el/1456/podzim2009/MPE_MOEK/um/8972262/menger1892.pdf">On the Origin of Money</a>,</li>
-        <li><a href="http://www.nber.org/papers/w19747.pdf">Is Bitcoin a Real Currency? An Economic Appraisal</a>,</li>
-        <li><a href="http://www.nber.org/papers/w22952.pdf">Some Simple Economics of the Blockchain</a>,</li>
-        <li><a href="https://www.ccilindia.com/Documents/Rakshitra/2016/May/Article%20Summary.pdf">Digital Currencies, Decentralized Ledgers, And The Future Of Central Banking</a>,</li>
-        <li><a href="https://www.clevelandfed.org/newsroom-and-events/publications/economic-commentary/economic-commentary-archives/2004-economic-commentaries/ec-20040201-island-money.aspx">Island Money</a></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
           </ul>
       </td>
       <td>
-        <a href="./assets/docs/01-blockchain what is money.pdf">Slides</a>,
-        <a href="https://berkeley-haas.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c29702dd-1b12-4436-87d4-a87100137a6e
-">Video</a>
       </td>
       <td></td>
     </tr>
@@ -83,18 +80,8 @@ Students will learn proven entrepreneurial methods and apply user-centered desig
       <td>09/03</td>
       <td>Labor Day</td>
       <td>
-        <ul>
-        <li><a href="https://is.muni.cz/el/1456/podzim2009/MPE_MOEK/um/8972262/menger1892.pdf">On the Origin of Money</a>,</li>
-        <li><a href="http://www.nber.org/papers/w19747.pdf">Is Bitcoin a Real Currency? An Economic Appraisal</a>,</li>
-        <li><a href="http://www.nber.org/papers/w22952.pdf">Some Simple Economics of the Blockchain</a>,</li>
-        <li><a href="https://www.ccilindia.com/Documents/Rakshitra/2016/May/Article%20Summary.pdf">Digital Currencies, Decentralized Ledgers, And The Future Of Central Banking</a>,</li>
-        <li><a href="https://www.clevelandfed.org/newsroom-and-events/publications/economic-commentary/economic-commentary-archives/2004-economic-commentaries/ec-20040201-island-money.aspx">Island Money</a></li>
-          </ul>
       </td>
       <td>
-        <a href="./assets/docs/01-blockchain what is money.pdf">Slides</a>,
-        <a href="https://berkeley-haas.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c29702dd-1b12-4436-87d4-a87100137a6e
-">Video</a>
       </td>
       <td></td>
     </tr>
@@ -103,9 +90,7 @@ Students will learn proven entrepreneurial methods and apply user-centered desig
 
 
 ## Class format and project
-This is a lecture and project oriented class. Each lecture will focus on one of the topics, including a survey of the state-of-the-art in the area and an in-depth discussion of the topic. Each week, students are expected to complete reading assignments before class and participate actively in class discussion.
-
-Students will also form project groups (6 people per group: 2 from EECS, 2 from Haas, 2 from Boalt) and complete a high-impact class project. The final project/deliverable will be small team presentation on a new application of blockchain (with a legal and business analysis). 
+This is a lecture and project oriented class...
 
 ## Enrollment
 
@@ -136,4 +121,4 @@ For students who need computing resources for the class project, we recommend yo
 
 ## Credits for website template
 
-Thanks to the Berkeley Blockchain team in the UC Berkeley CS dept who created the foundation for this awesome Github Pages website. Here is a link to their [Github org](https://github.com/berkeley-blockchain)
+Thanks to the Berkeley Blockchain team in the UC Berkeley CS dept who created this website template. Here is their [Github org](https://github.com/berkeley-blockchain)
