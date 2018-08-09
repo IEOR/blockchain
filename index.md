@@ -117,8 +117,3 @@ Nope.
 
 ## Additional Notes
 For students who need computing resources for the class project, we recommend you to look into AWS educate program for students. You’ll get 100 dollar’s worth of sign up credit. Here’s the [link](https://aws.amazon.com/education/awseducate/apply/).
-
-
-## Credits for website template
-
-Thanks to the Berkeley Blockchain team in the UC Berkeley CS dept who created this website template. Here is their [Github org](https://github.com/berkeley-blockchain)
