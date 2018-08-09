@@ -117,7 +117,7 @@ Reach out to Luke and Alex in an email and we will let you know.
 Nope.
 
 **Short URL?**
-Yes, you can use: [http://bit.ly/blockchain185](http://bit.ly/blockchain185)
+Yes, you can use: [http://bit.ly/ieor185](http://bit.ly/blockchain185)
 
 
 ## Additional Notes
