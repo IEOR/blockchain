@@ -9,8 +9,8 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://www.linkedin.com/in/lukekowalski/">Luke Kowalski</a></td>
-      <td><a href="https://alex.fo/">Alexander Fred-Ojala</a></td>
+      <td><a href="https://www.linkedin.com/in/lukekowalski/">Luke Kowalski</a> (Lead Instructor)</td>
+      <td><a href="https://alex.fo/">Alexander Fred-Ojala</a> (Technical Instructor)</td>
     </tr>
     <tr>
       <td>Industry Fellow, <a href="https://scet.berkeley.edu/">SCET</a></td>
