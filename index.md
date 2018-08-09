@@ -36,8 +36,7 @@
 
 ## Office Hours
 
-- Luke: TBD
-- Alex: TBD
+Last hour of class (Mondays 6-7PM)
 
 ## Piazza
 
