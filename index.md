@@ -3,8 +3,8 @@
 <table style="table-layout: fixed; font-size: 88%;">
   <thead>
     <tr>
-      <th style="width: 25%;"><img src="assets/imgs/luke.jpeg" alt="Luke Kowalski"></th>
-      <th style="width: 25%;"><img src="assets/imgs/alex.jpg" alt="Alexander Fred-Ojala"></th>
+      <th style="width: 20%;"><img src="assets/imgs/luke.jpeg" alt="Luke Kowalski"></th>
+      <th style="width: 20%;"><img src="assets/imgs/alex.jpg" alt="Alexander Fred-Ojala"></th>
     </tr>
   </thead>
   <tbody>
