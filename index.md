@@ -56,37 +56,47 @@ Students will learn proven entrepreneurial methods and apply user-centered desig
   <thead>
     <tr>
       <th style="width: 10%;">Date</th>
-      <th style="width: 40%;">Topic</th>
-      <th style="width: 50%;">Readings</th>
-      <th style="width: 20%;">Talk</th>
-      <th style="width: 10%;">Deadlines</th>
+      <th style="width: 40%;">Topic & Talks</th>
+      <th style="width: 40%;">Suggested Readings</th>
+      <th style="width: 40%;">Homework</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>Mon 08/27</td>
-      <td>Introduction</td>
+      <td>Lec1 08/27</td>
+      <td>Introduction: Welcome to Entrepreneurship & Blockchain basics <br>
+      <ul>
+        <li><b>Guest lecture:</b> <i>Where is the Opportunity in Blockchain?</i>, by Ikhlaq Sidhu </td>
       <td>
         <ul>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
+        <li>[Coinsutra: 9 Blockchain videos for beginners](https://coinsutra.com/blockchain-videos-for-beginners/)</li>
+        <li>[Blockchain Hub Intro](https://blockchainhub.net/blockchain-intro/)</li>
+        <li>[Truth Machine (WSJ Podcast)](https://blogs.wsj.com/cio/2018/05/02/podcast-blockchain-as-lie-detector/)</li>
+        <li>[When do you need Blockchain decision models?](https://medium.com/@sbmeunier/when-do-you-need-blockchain-decision-models-a5c40e7c9ba1)</li>
+        <li>[Do you need a Blockchain?](https://davidgerard.co.uk/blockchain/2018/02/10/do-you-need-a-blockchain-probably-less-than-wust-and-gervais-think-you-do/)</li>
           </ul>
       </td>
       <td>
+      <ul>
+        <en>Watch Venture Dojo Videos at home: Why take the Entrepreneur's Journey? (D111) and History and Culture of Silicon Valley </en>
+        <en>Prepare a 3-minute presentation on a blockchain company of the team’s choice, product, problem being served, target market, and other information you deem relevant</en>
       </td>
-      <td></td>
     </tr>
-    <tr>
+    <tr> <!--next day-->
       <td>09/03</td>
       <td>Labor Day</td>
       <td>
       </td>
       <td>
       </td>
-      <td></td>
+    </tr>
+    <tr> <!--next day-->
+      <td>09/10</td>
+      <td>Comprehensive intro to Blockchain tech</td>
+      <td>
+      </td>
+      <td>
+      </td>
     </tr>
   </tbody>
 </table>
