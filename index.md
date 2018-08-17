@@ -80,6 +80,7 @@ Students will learn proven entrepreneurial methods and apply user-centered desig
       <ul>
         <ol>Watch Venture Dojo Videos at home: Why take the Entrepreneur's Journey? (D111) and History and Culture of Silicon Valley </ol>
         <ol>Prepare a 3-minute presentation on a blockchain company of the team’s choice, product, problem being served, target market, and other information you deem relevant</ol>
+        </ul>
       </td>
     </tr>
     <tr>
