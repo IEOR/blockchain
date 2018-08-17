@@ -63,16 +63,15 @@ Students will learn proven entrepreneurial methods and apply user-centered desig
   <tbody>
     <tr>
       <td>Lec1 08/27</td>
-      <td>Introduction: Welcome to Entrepreneurship & Blockchain basics <br>
-      <ul>
-        <li><b>Guest lecture:</b> <i>Where is the Opportunity in Blockchain?</i>, by Ikhlaq Sidhu </td>
+      <td>Introduction: Welcome to Entrepreneurship & Blockchain basics <br><br>
+        <b>Guest lecture:</b><br><i>Where is the Opportunity in Blockchain?</i>, Ikhlaq Sidhu
       <td>
         <ul>
-        <li>[Coinsutra: 9 Blockchain videos for beginners](https://coinsutra.com/blockchain-videos-for-beginners/)</li>
-        <li>[Blockchain Hub Intro](https://blockchainhub.net/blockchain-intro/)</li>
-        <li>[Truth Machine (WSJ Podcast)](https://blogs.wsj.com/cio/2018/05/02/podcast-blockchain-as-lie-detector/)</li>
-        <li>[When do you need Blockchain decision models?](https://medium.com/@sbmeunier/when-do-you-need-blockchain-decision-models-a5c40e7c9ba1)</li>
-        <li>[Do you need a Blockchain?](https://davidgerard.co.uk/blockchain/2018/02/10/do-you-need-a-blockchain-probably-less-than-wust-and-gervais-think-you-do/)</li>
+        <li><a href='https://coinsutra.com/blockchain-videos-for-beginners/'>Coinsutra: 9 Blockchain videos for beginners</a></li>
+          <li><a href='https://blockchainhub.net/blockchain-intro/'>Blockchain Hub Intro</a></li>
+        <li><a href='https://blogs.wsj.com/cio/2018/05/02/podcast-blockchain-as-lie-detector/'>Truth Machine (WSJ Podcast)</a></li>
+        <li><a href='https://medium.com/@sbmeunier/when-do-you-need-blockchain-decision-models-a5c40e7c9ba1'>When do you need Blockchain decision models?</a></li>
+        <li><a href='https://davidgerard.co.uk/blockchain/2018/02/10/do-you-need-a-blockchain-probably-less-than-wust-and-gervais-think-you-do/'>Do you need a Blockchain?</a></li>
           </ul>
       </td>
       <td>
@@ -81,7 +80,7 @@ Students will learn proven entrepreneurial methods and apply user-centered desig
         <en>Prepare a 3-minute presentation on a blockchain company of the team’s choice, product, problem being served, target market, and other information you deem relevant</en>
       </td>
     </tr>
-    <tr> <!--next day-->
+    <tr>
       <td>09/03</td>
       <td>Labor Day</td>
       <td>
@@ -89,7 +88,7 @@ Students will learn proven entrepreneurial methods and apply user-centered desig
       <td>
       </td>
     </tr>
-    <tr> <!--next day-->
+    <tr>
       <td>09/10</td>
       <td>Comprehensive intro to Blockchain tech</td>
       <td>
