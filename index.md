@@ -51,6 +51,8 @@ The students will work in groups on a Blockchain related challenge over the seme
 Students will learn proven entrepreneurial methods and apply user-centered design tools in creating their company. Guest lectures from industry and academia, as well as hands-on group exercises and presentation of use cases will help along the way. A competition among the groups will decide a winning team that gets to compete in the SCET Collider Cup at the end of the Fall semester 2018.
 
 ## Syllabus
+
+
 <table style="table-layout: fixed; font-size: 88%;">
   <thead>
     <tr>
@@ -76,28 +78,25 @@ Students will learn proven entrepreneurial methods and apply user-centered desig
       </td>
       <td>
       <ul>
-        <en>Watch Venture Dojo Videos at home: Why take the Entrepreneur's Journey? (D111) and History and Culture of Silicon Valley </en>
-        <en>Prepare a 3-minute presentation on a blockchain company of the team’s choice, product, problem being served, target market, and other information you deem relevant</en>
+        <ol>Watch Venture Dojo Videos at home: Why take the Entrepreneur's Journey? (D111) and History and Culture of Silicon Valley </ol>
+        <ol>Prepare a 3-minute presentation on a blockchain company of the team’s choice, product, problem being served, target market, and other information you deem relevant</ol>
       </td>
     </tr>
     <tr>
       <td>09/03</td>
       <td>Labor Day</td>
-      <td>
-      </td>
-      <td>
-      </td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>09/10</td>
       <td>Comprehensive intro to Blockchain tech</td>
-      <td>
-      </td>
-      <td>
-      </td>
+      <td></td>
+      <td></td>
     </tr>
   </tbody>
 </table>
+
 
 
 ## Class format and project
