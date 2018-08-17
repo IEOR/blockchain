@@ -57,9 +57,9 @@ Students will learn proven entrepreneurial methods and apply user-centered desig
   <thead>
     <tr>
       <th style="width: 10%;">Date</th>
-      <th style="width: 40%;">Topic & Talks</th>
-      <th style="width: 40%;">Suggested Readings</th>
-      <th style="width: 40%;">Homework</th>
+      <th style="width: 30%;">Topic & Talks</th>
+      <th style="width: 30%;">Suggested Readings</th>
+      <th style="width: 30%;">Homework</th>
     </tr>
   </thead>
   <tbody>  
@@ -78,7 +78,12 @@ Students will learn proven entrepreneurial methods and apply user-centered desig
       </td>
       <td>
       <ol>
-        <li>Watch Venture Dojo Videos at home: Why take the Entrepreneur's Journey? (D111) and History and Culture of Silicon Valley </li>
+        <li><b>Watch Venture Dojo Videos:</b>
+          <ul>
+            <li>Why take the Entrepreneur's Journey? (D111)</li>
+            <li>History and Culture of Silicon Valley </li>
+          </ul>
+        </li>
         <li>Prepare a 3-minute presentation on a blockchain company of the team’s choice, product, problem being served, target market, and other information you deem relevant</li>
         </ol>
       </td>
