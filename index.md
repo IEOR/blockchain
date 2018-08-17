@@ -66,7 +66,7 @@ Students will learn proven entrepreneurial methods and apply user-centered desig
     <tr>
       <td>Lec1 08/27</td>
       <td>Introduction: Welcome to Entrepreneurship & Blockchain basics <br><br>
-        <b>Guest lecture:</b><br><i>Where is the Opportunity in Blockchain?</i>, Ikhlaq Sidhu</td>
+        <b>Guest lecture:</b><br><i>Where is the Opportunity in Blockchain?</i>, by <a href='https://www.linkedin.com/in/ikhlaq/'>Ikhlaq Sidhu</a></td>
       <td>
         <ul>
         <li><a href='https://coinsutra.com/blockchain-videos-for-beginners/'>Coinsutra: 9 Blockchain videos for beginners</a></li>
@@ -78,13 +78,13 @@ Students will learn proven entrepreneurial methods and apply user-centered desig
       </td>
       <td>
       <ol>
-        <li><b>Watch Venture Dojo Videos:</b>
+        <li><u>Watch Venture Dojo Videos:</u>
           <ul>
             <li>Why take the Entrepreneur's Journey? (D111)</li>
             <li>History and Culture of Silicon Valley </li>
           </ul>
         </li>
-        <li>Prepare a 3-minute presentation on a blockchain company of the team’s choice, product, problem being served, target market, and other information you deem relevant</li>
+        <li><u>Prepare a 3-min presentation on a Blockchain company:</u> Product, problem being served, target market, and other relevant info</li>
         </ol>
       </td>
     </tr>
