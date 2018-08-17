@@ -10,9 +10,9 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://www.linkedin.com/in/lukekowalski/">Luke Kowalski</a> (Lead Instructor)</td>
-      <td><a href="https://alex.fo/">Alexander Fred-Ojala</a> (Technical Instructor)</td>
-      <td><a href="https://www.linkedin.com/in/kensinger">Ken Singer</a> (Entrepreneurship Kungfu Master)</td>
+      <td><a href="https://www.linkedin.com/in/lukekowalski/">Luke Kowalski</a> <br>(Lead Instructor)</td>
+      <td><a href="https://alex.fo/">Alexander Fred-Ojala</a> <br>(Technical Instructor)</td>
+      <td><a href="https://www.linkedin.com/in/kensinger">Ken Singer</a> <br>(Entrepreneurship Master)</td>
     </tr>
     <tr>
       <td>Industry Fellow, <a href="https://scet.berkeley.edu/">SCET</a></td>
@@ -36,8 +36,7 @@
 
 ## Office Hours
 
-- Luke: TBD
-- Alex: TBD
+Last hour of class (Mondays 6-7PM)
 
 ## Piazza
 
@@ -128,7 +127,7 @@ Reach out to Luke and Alex in an email and we will let you know.
 Nope.
 
 **Short URL?**
-Yes, you can use: [http://bit.ly/blockchain185](http://bit.ly/blockchain185)
+Yes, you can use: [http://bit.ly/ieor185](http://bit.ly/blockchain185)
 
 
 ## Additional Notes
