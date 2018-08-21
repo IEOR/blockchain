@@ -90,7 +90,7 @@ Students will learn proven entrepreneurial methods and apply user-centered desig
       </td>
     </tr>
     <tr>
-      <td>09/03</td>
+      <td>Lec2 09/03</td>
       <td><b>No class! Labor Day</b></td>
       <td></td>
       <td></td>
