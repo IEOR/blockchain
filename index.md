@@ -87,9 +87,12 @@ Format / Reference Examples 2: https://blog.udemy.com/company-profile-examples/
 Top 100 Blockchain companies: https://www.rise.global/blockchain-100
 Top 10 Blockchain Innovators and Startups: https://hackernoon.com/top-10-blockchain-technology-companies-cc1666c9da7e
 Do you Need Blockchain, Analysis of 3 Domains: https://eprint.iacr.org/2017/375.pdf
-  
-  
-     
+      <tr>
+      <td>09/03</td>
+      <td><b>No class! Labor Day</b></td>
+      <td></td>
+      <td></td>
+    </tr>
   </tbody>
 </table>
 
