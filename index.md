@@ -87,6 +87,7 @@ Students will learn proven entrepreneurial methods and apply user-centered desig
 <li><a href='https://hackernoon.com/top-10-blockchain-technology-companies-cc1666c9da7e'>Top 10 Blockchain Innovators and Startups</a></li>
 <li><a href='https://eprint.iacr.org/2017/375.pdf'>Do you Need Blockchain, Analysis of 3 Domains</a></li>
 </ul>
+      </td>
     </tr>
     <tr>
       <td>09/03</td>
