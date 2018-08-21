@@ -77,26 +77,20 @@ Students will learn proven entrepreneurial methods and apply user-centered desig
           </ul>
       </td>
       <td>
-      <ol>
-        <li><u>Watch Venture Dojo Videos:</u>
-          <ul>
-            <li>Why take the Entrepreneur's Journey? (D111)</li>
-            <li>History and Culture of Silicon Valley </li>
-          </ul>
-        </li>
-        <li><u>Prepare a 3-min presentation on a Blockchain company:</u> Product, problem being served, target market, and other relevant info</li>
-        </ol>
-      </td>
+<ol>
+<li><u>Prepare a 3-min presentation on a Blockchain company:</u> Product, problem being served, target market, and other relevant info (Examples that contain: Name, Location, Management Team, Mission, Structure, Competitive Market Sector, Financials, Products and Services).</li>
+</ol>
+<ul>
+<li><a href='https://articles.bplans.com/write-company-overview/'>Fotrmat Refeences</a></li>
+<li><a href='https://blog.udemy.com/company-profile-examples/'>Format Reference Examples 2</a></li>
+<li><a href='https://www.rise.global/blockchain-100'>Top 100 Blockchain companies</a></li>
+<li><a href='https://hackernoon.com/top-10-blockchain-technology-companies-cc1666c9da7e'>Top 10 Blockchain Innovators and Startups</a></li>
+<li><a href='https://eprint.iacr.org/2017/375.pdf'>Do you Need Blockchain, Analysis of 3 Domains</a></li>
+</ul>
     </tr>
     <tr>
       <td>09/03</td>
       <td><b>No class! Labor Day</b></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>09/10</td>
-      <td>Comprehensive intro to Blockchain tech</td>
       <td></td>
       <td></td>
     </tr>
