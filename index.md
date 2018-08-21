@@ -82,9 +82,10 @@ Students will learn proven entrepreneurial methods and apply user-centered desig
   <br><ul>
         <li><a href='https://articles.bplans.com/write-company-overview/'>Fotrmat Refeences</a></li>
         <li><a href='https://blog.udemy.com/company-profile-examples/'>Format / Reference Examples 2q</a></li>
-<li>Top 100 Blockchain companies: https://www.rise.global/blockchain-100</li>
-<li>Top 10 Blockchain Innovators and Startups: https://hackernoon.com/top-10-blockchain-technology-companies-cc1666c9da7e</li>
-<li>Do you Need Blockchain, Analysis of 3 Domains: https://eprint.iacr.org/2017/375.pdf</li>
+<li><a href='https://www.rise.global/blockchain-100'>Top 100 Blockchain companies</a></li>
+<li><a href='https://hackernoon.com/top-10-blockchain-technology-companies-cc1666c9da7e'>Top 10 Blockchain Innovators and Startups</a></li>
+<li><a href='https://eprint.iacr.org/2017/375.pdf'>Do you Need Blockchain, Analysis of 3 Domains</a></li>
+	</tr>
       <tr>
       <td>09/03</td>
       <td><b>No class! Labor Day</b></td>
