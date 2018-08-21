@@ -78,14 +78,12 @@ Students will learn proven entrepreneurial methods and apply user-centered desig
       </td>
       <td>
       <ol>
-          </ul>
-        </li>
-        <li><u>Prepare a 3-min presentation on a Blockchain company:</u> Product, problem being served, target market, and other relevant info (Examples that contain: Name, Location, Management Team, Mission, Structure, Competitive Market Sector, Financials, Products and Services)./li>
-  
-Fotrmat Refeences: https://articles.bplans.com/write-company-overview/</a></li>
-Format / Reference Examples 2: https://blog.udemy.com/company-profile-examples/
-Top 100 Blockchain companies: https://www.rise.global/blockchain-100
-Top 10 Blockchain Innovators and Startups: https://hackernoon.com/top-10-blockchain-technology-companies-cc1666c9da7e
+        <li><u>Prepare a 3-min presentation on a Blockchain company:</u> Product, problem being served, target market, and other relevant info (Examples that contain: Name, Location, Management Team, Mission, Structure, Competitive Market Sector, Financials, Products and Services).</li></ol>
+  <br><br>
+Fotrmat Refeences: https://articles.bplans.com/write-company-overview/</li><br>
+Format / Reference Examples 2: https://blog.udemy.com/company-profile-examples/<br>
+Top 100 Blockchain companies: https://www.rise.global/blockchain-100<br>
+Top 10 Blockchain Innovators and Startups: https://hackernoon.com/top-10-blockchain-technology-companies-cc1666c9da7e<br>
 Do you Need Blockchain, Analysis of 3 Domains: https://eprint.iacr.org/2017/375.pdf
       <tr>
       <td>09/03</td>
