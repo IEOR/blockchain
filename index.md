@@ -13,12 +13,12 @@
     <tr>
       <td><a href="https://www.linkedin.com/in/lukekowalski/">Luke Kowalski</a> <br>(Lead Instructor)</td>
       <td><a href="https://alex.fo/">Alexander Fred-Ojala</a> <br>(Technical Instructor)</td>
-      <td><a href="https://www.linkedin.com/in/kensinger">Ken Singer</a> <br>(Entrepreneurship Master)</td>
+      <td><a href="https://www.linkedin.com/in/kensinger">Ken Singer</a> <br>(Entrep. Master)</td>
       <td><a href="https://www.linkedin.com/in/catherinelunwu/">Catherine Wu</a><br>(Course Coordinator)</td>
     </tr>
     <tr>
       <td>Industry Fellow, <a href="https://scet.berkeley.edu/">SCET</a></td>
-      <td>Research Director, <a href="http://scet.berkeley.edu/data-lab">SCET, Data Lab</a></td>
+      <td><a href="http://scet.berkeley.edu/data-lab">SCET, Data Lab</a></td>
       <td>Managing Director, <a href="https://scet.berkeley.edu/">SCET</a></td>
       <td><a href="https://scet.berkeley.edu/">SCET, undergrad</a></td>
     </tr>
