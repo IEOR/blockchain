@@ -24,9 +24,9 @@
 
 ## Course Coordinator
 
-| ![]() |
-| --- |
-| TBD |
+| ![catherine](assets/imgs/catherine.jpeg) |
+| [Catherine Wu](https://www.linkedin.com/in/catherinelunwu/) |
+| <a href='https://scet.berkeley.edu'>SCET undergrad</a> |
 
 ## Lectures
 
