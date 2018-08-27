@@ -24,9 +24,21 @@
 
 ## Course Coordinator
 
-| ![catherine](assets/imgs/catherine.jpeg) |
-| [Catherine Wu](https://www.linkedin.com/in/catherinelunwu/) |
-| <a href='https://scet.berkeley.edu'>SCET undergrad</a> |
+<table style="table-layout: fixed; font-size: 88%;">
+  <thead>
+    <tr>
+      <th style="width: 20%;"><img src="assets/imgs/catherine.jpeg" alt="Catherine"></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://www.linkedin.com/in/catherinelunwu/">Catherine Wu</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://scet.berkeley.edu/">SCET, undergrad</a></td>
+    </tr>
+  </tbody>
+</table>
 
 ## Lectures
 
