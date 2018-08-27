@@ -20,7 +20,7 @@
       <td>Industry Fellow, <a href="https://scet.berkeley.edu/">SCET</a></td>
       <td><a href="http://scet.berkeley.edu/data-lab">SCET, Data Lab</a></td>
       <td>Managing Director, <a href="https://scet.berkeley.edu/">SCET</a></td>
-      <td><a href="https://scet.berkeley.edu/">SCET, undergrad</a></td>
+      <td><a href="https://scet.berkeley.edu/">SCET</a>, undergrad</td>
     </tr>
   </tbody>
 </table>
